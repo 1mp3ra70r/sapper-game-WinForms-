@@ -1,0 +1,10 @@
+C:\Users\n30nu\source\repos\CAPER\bin\Debug\CAPER.exe.config
+C:\Users\n30nu\source\repos\CAPER\bin\Debug\CAPER.exe
+C:\Users\n30nu\source\repos\CAPER\bin\Debug\CAPER.pdb
+C:\Users\n30nu\source\repos\CAPER\obj\Debug\CAPER.csproj.AssemblyReference.cache
+C:\Users\n30nu\source\repos\CAPER\obj\Debug\CAPER.Form1.resources
+C:\Users\n30nu\source\repos\CAPER\obj\Debug\CAPER.Properties.Resources.resources
+C:\Users\n30nu\source\repos\CAPER\obj\Debug\CAPER.csproj.GenerateResource.cache
+C:\Users\n30nu\source\repos\CAPER\obj\Debug\CAPER.csproj.CoreCompileInputs.cache
+C:\Users\n30nu\source\repos\CAPER\obj\Debug\CAPER.exe
+C:\Users\n30nu\source\repos\CAPER\obj\Debug\CAPER.pdb
